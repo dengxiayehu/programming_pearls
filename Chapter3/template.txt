@@ -1,0 +1,3 @@
+Hi $0:
+I am $1, nice to meet you.
+Yours, date: $2.
